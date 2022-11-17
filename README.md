@@ -1,12 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapl4ce&show_icons=true&theme=transparent)
 <br />
 <br />
-name: Icons
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.icons.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 0
-  plugin_topics_mode: icons
+![terminal](https://user-images.githubusercontent.com/79395973/202424916-38ccac74-db1d-4517-8eb3-cfb6e743a192.gif)
