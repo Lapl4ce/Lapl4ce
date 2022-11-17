@@ -3,4 +3,4 @@
 ## My tools:
 ![tools](https://skillicons.dev/icons?i=js,html,css,python,github,nodejs,vscode)
 ### Contacts:
-[![My Skills](https://skillicons.dev/icons?i=discord)]([https://skillicons.dev](https://discordapp.com/users/668142878312103938/))
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/668142878312103938/)
